@@ -1,6 +1,6 @@
 
 
-# enotes :notebook_with_decorative_cover:
+
 
 **Enotes** is a web application for creating and managing personal notes.
 

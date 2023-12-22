@@ -44,7 +44,7 @@ tables.
 2. Go to the root of the project and run `mvn package` in your console (terminal);
 
 After the packaging finish, run the command to start the
-application `java -jar target/enotes-1.0-SNAPSHOT.jar`. The application will be started (by default
+application `java -jar target/enotes`. The application will be started (by default
 the port is 8080). Open your browser and type `localhost:8080` to open the application.
 
 ### Use case

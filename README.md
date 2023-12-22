@@ -1,6 +1,6 @@
-Enotes is a web application for creating and managing personal notes.
+#Enotes is a web application for creating and managing personal notes.
 
-Subject area
+#Subject area
 A user can create his account using the registration form. Then he will be able to log in with it. The application will provide high notes management system. Notes have headers and bodies. In addition, they have priority marks, which can be Low, Middle or High.
 
 Definitions

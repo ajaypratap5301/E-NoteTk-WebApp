@@ -1,7 +1,5 @@
 # enotes :notebook_with_decorative_cover:
 
-
-
 **Enotes** is a web application for creating and managing personal notes.
 
 ### Subject Area
@@ -55,55 +53,38 @@ In this chapter, I will show you only the basic usage of the application.
 
 After you typed `localhost:8080` in your browser and hit enter you will see the next page.
 
-![enotes_main_page](docs/enotes_main_page.png)
-
 In the top right corner, you may see "Sign In" and "Sign Up" buttons. If you choose "Sign Up", the
 page with the registration form will be loaded.
 
-![registration_page](docs/registration_page.png)
-
 Fill in the required fields and click "Sign Up". Now you may sign in to the application using your
 credentials.
-
-![sign_in_page](docs/sign_in_page.png)
-
 Now, after you signed in, you can create your first note. Go to the "Create" page (in the header
 menu).
-
-![create_note_page](docs/create_note_page.png)
-
 Fill the header, changes the priority of the note (High, Middle, and Low), and add a note body.
-
-![filled_note_data](docs/filled_note_data.png)
-
 Click the "Create" button. Now you may see your note at the "Notes" page.
-
-![notes_overview_page](docs/notes_overview_page.png)
-
 Let's change this note. Click "view" below the note.
 
-![note_view_page](docs/note_view_page.png)
+
 
 You can change the note data at the note view page: header, body, priority or mark the note as "
 Done". You even can delete the note by the "Delete" button.<br>
 Let's mark the note as "Done".
 
-![note_marked_as_done](docs/note_marked_as_done.png)
+
 
 Clicking the "Save editing" button and going to the "Notes" page. You may see the green line near
 the note. The green line means the note is done.
 
-![note_view_page_with_done_note](docs/note_view_page_with_done_note.png)
 
 In the top panel, you may notice filters for notes. You may use them for more comfortable work with
 notes. Let's click the "Not done" filter.
 
-![not_done_notes_filters](docs/not_done_notes_filters.png)
+
 
 Nothing to show. And it's true because we marked our only note as "Done".<br>
 That's it for a basic use case overview.
 
-## Author 🦝
+## Author 
 
 - Name: Ajay Pratap Rav
 - Email: ajaypratap8977@gmail.com

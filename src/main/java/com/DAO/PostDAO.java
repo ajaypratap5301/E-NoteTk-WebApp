@@ -18,7 +18,7 @@ public PostDAO(Connection conn) {
 	this.conn = conn;
 }
 
-//method for data post in database
+
 public boolean AddNotes(String ti,String co,int  ui) {
 	boolean f=false;
 	try {
